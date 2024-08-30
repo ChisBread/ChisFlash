@@ -1,5 +1,6 @@
 # ChisFlash
 - ChisFlash is an open source GBA flashcart, which is inspired by the [opencartgba](https://github.com/laqieer/opencartgba) project.
+- oshwhub: [ChisBread](https://oshwhub.com/chisbread/works)
 - v1.0(Prometheus) version uses FRAM, v0.1 version uses SRAM (1Mbit).
 
 # Features

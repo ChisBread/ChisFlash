@@ -4,6 +4,7 @@
 - [English](README-en.md)
 
 - ChisFlash是开源GBA烧录卡，它的灵感来自[opencartgba](https://github.com/laqieer/opencartgba)项目。
+- 立创开源项目地址：[ChisBread](https://oshwhub.com/chisbread/works)
 - v1.0(Prometheus)版本适用FRAM，v0.1版本适用SRAM (1Mbit)。
 
 # 功能特性
