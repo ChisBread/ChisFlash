@@ -31,6 +31,10 @@
 
 ![schematic](./images/sch.png)
 
+# BOM
+
+- [ChisFlash BOM](BOM.md)
+
 # 目录结构   
 
 ```
